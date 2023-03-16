@@ -1,6 +1,6 @@
 /*
  * File: 6-size.c
- * Auth: Shawky mohamed sayed mousa sanad
+ * Auth: TasneemIbrahim
  */
 
 #include <stdio.h>
