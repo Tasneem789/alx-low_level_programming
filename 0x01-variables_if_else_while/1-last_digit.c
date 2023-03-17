@@ -1,7 +1,8 @@
 /*
  * File: 1-last_digit.c
- * Auth: TasneemIbrahim 
+ * Auth: TAsneemIbarhim
  */
+
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
