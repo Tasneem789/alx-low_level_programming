@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+=======
+/*
+ * File: 0-putchar.c
+ * Auth: TasneemIbrahim
+ */
+
+>>>>>>> 925a676d001ce30fa0ddeef161b03db4bb4416e1
 #include "main.h"
 
 /**
