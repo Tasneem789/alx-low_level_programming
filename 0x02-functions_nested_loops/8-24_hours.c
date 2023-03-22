@@ -1,8 +1,3 @@
-/*
- * File: 8-24_hours.c
- * Auth: TasneemIbrahim 
- */
-
 #include "main.h"
 
 /**
